@@ -1,24 +1,15 @@
-# vue-3-template
-
-## Project setup
+# Cài đặt
+## Tạo project
 ```
-npm install
+vue create vue-3-template
 ```
-
-### Compiles and hot-reloads for development
+Chọn: __Default (Vue 3) ([Vue 3] babel, eslint)__
+## Thêm typescript
+Tham khảo: https://v3.vuejs.org/guide/typescript-support.html#augmenting-types-for-globalproperties
 ```
-npm run serve
+vue add typescript
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Các thư viện hỗ trợ
+## Vuex module decorator
+- Link: https://www.npmjs.com/package/vuex-module-decorators
+- Lợi ích: đơn giản hóa việc sử dụng vuex typescript, dễ đọc, dễ hiểu
