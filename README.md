@@ -11,5 +11,9 @@ vue add typescript
 ```
 # Các thư viện hỗ trợ
 ## Vuex module decorator
-- Link: https://www.npmjs.com/package/vuex-module-decorators
+- Tài liệu đầy đủ: https://championswimmer.in/vuex-module-decorators/pages/installation.html
 - Lợi ích: đơn giản hóa việc sử dụng vuex typescript, dễ đọc, dễ hiểu
+- Cài đặt:
+```
+npm install vuex-module-decorators
+```
