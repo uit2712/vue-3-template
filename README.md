@@ -10,6 +10,12 @@ Tham khảo: https://v3.vuejs.org/guide/typescript-support.html#augmenting-types
 vue add typescript
 ```
 # Các thư viện hỗ trợ
+## Vuex 4
+- Tài liệu đầy đủ: https://championswimmer.in/vuex-module-decorators/pages/installation.html
+- Cài đặt:
+```
+npm install vuex@next --save
+```
 ## Vuex module decorator
 - Tài liệu đầy đủ: https://championswimmer.in/vuex-module-decorators/pages/installation.html
 - Lợi ích: đơn giản hóa việc sử dụng vuex typescript, dễ đọc, dễ hiểu
